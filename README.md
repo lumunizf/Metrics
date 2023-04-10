@@ -15,7 +15,7 @@
 
 <section class="contato">
 	<div align="center">
-      <table>
+      <table border="0">
          <tr>
             <td><a href="https://www.linkedin.com/in/lumunizf/"><img src="img/linkedin.png" title="Visualize o meu perfil no Linkedin" width="30"></a></td>
             <td><a href="https://github.com/lumunizf"><img src="img/github.png" title="Siga-me no Github" width="30"></td>
@@ -25,8 +25,6 @@
       </table>
    </div>
 </section>
-
-<br/>  
 
 -------
 
