@@ -1,4 +1,4 @@
-# :beetle: Métricas e indicadores de Qualidade
+# Métricas e indicadores de Qualidade
 
 [![GitHub license](https://img.shields.io/github/license/lumunizf/metrics)](https://github.com/lumunizf/metrics/blob/master/LICENSE)
 [![GitHub last commit](https://img.shields.io/github/last-commit/lumunizf/metrics)](https://github.com/lumunizf/metrics/commits/master)
